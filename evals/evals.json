@@ -1,0 +1,85 @@
+{
+  "evals": [
+    {
+      "id": "eval-001",
+      "prompt": "I want to generate a fashion e-commerce photo of a woman wearing a silk blouse. I want the Hasselblad X2D medium format look with the XCD 80mm f/1.9 lens. Kodak Portra 160 film aesthetic. Write me the perfect prompt for Nano Banana Pro.",
+      "expectations": [
+        "Output contains a complete, ready-to-use prompt for AI image generation",
+        "Mentions Hasselblad X2D and XCD 80mm f/1.9 explicitly",
+        "Includes medium format specific characteristics (shallow DOF, dimensionality, 16-bit tonal transitions)",
+        "References HNCS skin rendering or equivalent Hasselblad color science description",
+        "Includes Kodak Portra 160 characteristics (pastel muted tones, fine grain, rosy skin tones, low contrast)",
+        "Describes bokeh quality specific to this lens/camera combo",
+        "Contains lighting direction or style suggestion"
+      ]
+    },
+    {
+      "id": "eval-002",
+      "prompt": "I need a moody night street photography prompt. CineStill 800T look with red halation. Shot on Leica M11 with Noctilux 50mm f/0.95. Make it cinematic and atmospheric.",
+      "expectations": [
+        "Output contains complete prompt with all requested equipment mentioned",
+        "CineStill 800T red halation is prominently described (not just mentioned by name)",
+        "Leica Noctilux f/0.95 extreme shallow DOF characteristics are described",
+        "Includes tungsten blue cast and warm practical light characteristics",
+        "Mentions specific bokeh character (large round orbs, swirl character, glow)",
+        "Heavy vignette characteristic of Noctilux is mentioned",
+        "Night/urban atmosphere and mood descriptors are included",
+        "Film grain is described"
+      ]
+    },
+    {
+      "id": "eval-003",
+      "prompt": "Generate a cinematic widescreen anamorphic prompt. ARRI ALEXA 35 with Cooke Anamorphic SF 40mm. Kodak Vision3 500T film look. Sci-fi corridor scene.",
+      "expectations": [
+        "Output specifies 2x anamorphic or 2.39:1 aspect ratio",
+        "Oval/elliptical bokeh is described",
+        "Horizontal lens flare streaks (blue/amber) are mentioned",
+        "ARRI ALEXA 35 color science characteristics included",
+        "Cooke warm tone character mentioned alongside anamorphic traits",
+        "Kodak Vision3 500T grain and tungsten blue cast described",
+        "Edge softness and field curvature from anamorphic mentioned",
+        "Sci-fi atmosphere and cinematic composition described"
+      ]
+    },
+    {
+      "id": "eval-004",
+      "prompt": "I want to create an editorial portrait with vintage character. Use the Helios 44-2 swirl bokeh lens on a modern camera. Fujifilm Nostalgic Neg color treatment. Golden hour.",
+      "expectations": [
+        "Helios 44-2 swirl bokeh specifically described (rotating background pattern)",
+        "Warm/golden color cast of the lens mentioned",
+        "Halation and bloom characteristics included",
+        "Chromatic aberration at edges described",
+        "Heavy vignette mentioned",
+        "Nostalgic Neg amber/golden warm color cast characteristics described",
+        "Golden hour lighting described to complement the warm aesthetic",
+        "Complete usable prompt structure"
+      ]
+    },
+    {
+      "id": "eval-005",
+      "prompt": "Compare the Cooke S7/i vs ARRI Signature Primes for a beauty commercial. Which gives a warmer, more organic look? Write prompts for both so I can compare.",
+      "expectations": [
+        "Two distinct prompts are generated, one for each lens",
+        "Cooke S7/i prompt emphasizes the Cooke Look (golden warmth, creamy round bokeh)",
+        "ARRI Signature prompt emphasizes modern perfection (clean, minimal distortion, large bokeh at T1.8)",
+        "Differences between the two are clearly articulated",
+        "Both prompts are complete and usable",
+        "Recommendation about which is warmer/more organic is provided (Cooke)",
+        "Camera body pairing is appropriate for each lens"
+      ]
+    },
+    {
+      "id": "eval-006",
+      "prompt": "Black and white gritty street photography prompt. Kodak Tri-X look. Shot on Fujifilm X100VI. I want maximum grain and contrast.",
+      "expectations": [
+        "Kodak Tri-X 400 characteristics explicitly described (pronounced grain, high contrast, deep blacks)",
+        "Fujifilm X100VI with 23mm f/2 (35mm equiv) perspective mentioned",
+        "Heavy grain structure emphasized as requested",
+        "High contrast treatment described",
+        "Street photography composition and atmosphere included",
+        "Black and white rendering specifics (tonal range, shadow/highlight handling) described",
+        "Complete usable prompt"
+      ]
+    }
+  ]
+}
